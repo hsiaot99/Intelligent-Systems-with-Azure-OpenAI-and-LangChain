@@ -1,6 +1,6 @@
 # Intelligent-Systems-with-Azure-OpenAI-and-LangChain
 
-## Geometric Area Calculator
+## 【Geometric Area Calculator】
 
 ### Project Overview
 
@@ -11,7 +11,7 @@ This project implements a Python program, `area.py`, which utilizes the Agent ca
 *   LangChain
 
 
-### Product Embedding Generation and Retrieval System
+### 【Product Embedding Generation and Retrieval System】
 
 ### Project Overview
 
